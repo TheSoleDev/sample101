@@ -1,0 +1,9 @@
+// var site_url ='http://localhost/www/godating/';
+// var api_url ='http://localhost/www/godating/api/';
+var site_url ='http://godating.com.sg/';
+var api_url ='http://godating.com.sg/api/';
+var $this = $( this ),
+	theme = 'a',
+	msgText = 'Please wait..',
+	textVisible =true,
+	textonly = true;
